@@ -37,3 +37,12 @@ git reset 옵션 commit ID
 - --soft : 삭제된 commit의 기록을 staging area에 남김
 - --mixed : 삭제된 commit의 기록을 working directory에 남김 (기본 옵션 값)
 - --hard : 삭제된 commit의 기록을 남기지 않음
+<br><br>
+## Staging area에 올라간 파일 Unstage 하기
+
+```
+git rm --cached
+```
+```
+git restore --staged
+```
