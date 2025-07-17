@@ -1,8 +1,17 @@
 # 25/07/17 소개합니다요 SSAFY 
-<br>이것마저 추가로 작성합니다. 
-```python
-print('Hello SSAFY')
+<br>이건 git 명령어입니다. 
+```git
+git touch 파일명
 ```
-```JavaScript
-console.log('Hello SSAFY')
+```git
+git mkdir 폴더명
+```
+```git
+git add 파일명
+```
+```git
+git commit -m "커밋내용"
+```
+```git
+git push origin master
 ```
