@@ -30,7 +30,7 @@ git revert commit ID
 ## reset : 되돌리기
 - 시계를 마치 과거로 돌리는 듯한 행위
 - 특정 commit으로 되돌아 갔을 때, 되돌아간 commit 이후의 commit은 모두 삭제
-git - rest의 3가지 옵션<br>
+git - reset의 3가지 옵션<br>
 ```
 git reset 옵션 commit ID
 ```
