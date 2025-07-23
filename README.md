@@ -4,6 +4,9 @@
 git touch 파일명
 ```
 ```git
+git config --list 
+```
+```git
 git mkdir 폴더명
 ```
 ```git
