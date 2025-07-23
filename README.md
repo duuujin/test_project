@@ -4,9 +4,6 @@
 git touch 파일명
 ```
 ```git
-git config --list 
-```
-```git
 git mkdir 폴더명
 ```
 ```git
@@ -17,6 +14,9 @@ git commit -m "커밋내용"
 ```
 ```git
 git push origin master
+```
+```git
+git config --list 
 ```
 <br><br>
 # git의 커밋 되돌리기 2가지 장법
